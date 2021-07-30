@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Sales CRM
-- 🌱 I’m currently learning TDD
-- Thank you for visiting, Hope You Enjoy Life
+- 🌱 Hope You are enjoying Life
 
 <!--
 **Nisshan/nisshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
