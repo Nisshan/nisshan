@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Sales CRM
+- 🔭 I’m looking for Laravel/PHP roles
 - 🌱 Hope You are enjoying Life
 
 <!--
